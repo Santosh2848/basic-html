@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    text-align: center;
+}
+
+.bodyWrapper {
+    width: 100%;
+    display: flex;
+}
+
+#india {
+    flex: 4;
+    height: 100vh;
+}
+
+#father {
+    flex:4;
+
+}
+
+#mother {
+    flex: 4;
+    
+}
+
+ .myLoveText {
+    margin-top:20px ;
+ }
+
+ .myloveImg {
+    margin-top: 20px;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+ } 
+
+ h2 {
+    margin-top: 20px;
+ }
+
+ p{
+    font-size: 20px;
+    width: 80%;
+    margin: 20px auto;
+
+ }
